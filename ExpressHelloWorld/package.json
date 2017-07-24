@@ -1,0 +1,22 @@
+{
+  "name": "pachet",
+  "version": "1.0.0",
+  "description": "helloworld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arhir/node-JS.git"
+  },
+  "keywords": [
+    "pachet"
+  ],
+  "author": "adina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arhir/node-JS/issues"
+  },
+  "homepage": "https://github.com/Arhir/node-JS#readme"
+}
