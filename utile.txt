@@ -10,3 +10,6 @@ npm init - completezi detalii
 node index.js - pt rulare
 
 in buffer - stochezi continut care nu este text
+npm install express - instaleaza modulul express
+npm install -g mocha - instaleaza global mocha - test runner
+npm install chai - instaleaza modul de assert(o extensie a modulului basic de assert)- ce se intampla in caz de egalitate
