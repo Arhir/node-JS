@@ -1,0 +1,12 @@
+visual studio code
+postman
+nodejs
+sourcetree
+
+visual code studio
+codul se pune in file index.js din folderul creat
+cd numefolder
+npm init - completezi detalii
+node index.js - pt rulare
+
+in buffer - stochezi continut care nu este text
