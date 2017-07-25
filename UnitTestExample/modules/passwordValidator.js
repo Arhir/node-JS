@@ -1,4 +1,14 @@
 exports.validPassword = module.exports.validPassword=function(password)
 {
-    return true;
-};
+if(password.length < 8){
+    return false;
+}
+
+
+    {
+if(password.indexOf("password") >=0 ){
+    return false;
+}
+
+return true;
+}
