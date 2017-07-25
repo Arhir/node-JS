@@ -6,4 +6,4 @@ var password="testBAU";
 
 var valid = myValidator.validPassword(password);
 
-console.log("your password:"+password+"is:"+valid);
+console.log("Your password': "+password+" is: "+valid);
